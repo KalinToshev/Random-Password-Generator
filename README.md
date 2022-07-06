@@ -5,5 +5,5 @@ We all know that when we forget our password on a site, app, etc. in most cases 
 
 Information about the program:
 
-Project SDK: Oracle OpenJDK version 17.0.1
+Project SDK: **Oracle OpenJDK version 17.0.1**
 
